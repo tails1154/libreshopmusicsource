@@ -16,3 +16,5 @@ cp libreshop-client.dol libreshop/boot.dol
 cp data/default_config.json libreshop/config.json
 zip -r libreshop.zip libreshop/
 ```
+
+you can download a precompiled copy at https://github.com/tailsshare/libreshop.zip
