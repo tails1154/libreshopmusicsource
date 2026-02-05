@@ -17,4 +17,4 @@ cp data/default_config.json libreshop/config.json
 zip -r libreshop.zip libreshop/
 ```
 
-you can download a precompiled copy at https://github.com/tailsshare/libreshop.zip
+you can download a precompiled copy at https://github.com/tails1154/tailsshare/libreshop.zip
